@@ -1,4 +1,5 @@
 # **Portainer: Set Items Per Page to All** User Script
+<img width="1277" height="654" alt="portainer" src="https://github.com/user-attachments/assets/70830af9-f6d7-4398-afad-4df49edc0f40" />
 
 This User Script for Greasemonkey, Tampermonkey, or Violentmonkey automatically sets the "Items per page" option to **All** when you access your Portainer instance. It saves you time by bypassing the need to manually adjust this setting every time you load the page.
 
